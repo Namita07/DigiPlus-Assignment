@@ -1,0 +1,46 @@
+.addtext{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.dropcontainer{
+    display:flex;
+    height:30px;
+}
+
+.dropbtn{
+    height:25px;
+    width:200px
+}
+
+.Submit1{
+
+    width:170px;
+    height:30px;
+    background-color: rgb(143, 201, 201);
+    margin-top: 20px;
+}
+
+
+.input1{
+
+    height:20px;
+    width:150px;
+    border-radius: 4px;
+
+}
+
+.submit2{
+
+    height:30px;
+    background-color:  rgb(143, 201, 201);
+    margin-top: 20px;
+
+}
+
+.nodetext{
+
+    font-size: 20px;
+    font-weight: bold;
+
+}
